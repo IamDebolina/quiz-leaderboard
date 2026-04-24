@@ -1,0 +1,12 @@
+com\quiz\controller\QuizController.class
+com\quiz\config\CorsConfig.class
+com\quiz\model\Event.class
+com\quiz\model\LeaderboardEntry.class
+com\quiz\QuizApplication.class
+com\quiz\model\SubmitRequest.class
+com\quiz\model\StartQuizResponse.class
+com\quiz\model\PollMessageResponse.class
+com\quiz\model\PollSummary.class
+com\quiz\model\SubmitResponse.class
+com\quiz\config\RestConfig.class
+com\quiz\service\QuizService.class
